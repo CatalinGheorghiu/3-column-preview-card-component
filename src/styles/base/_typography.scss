@@ -1,0 +1,16 @@
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 32px;
+  font-family: $font-secondary;
+  color: $very-light-gray;
+}
+
+.text-regular {
+  font-family: $font-primary;
+  color: $transparent-white;
+  line-height: 180%;
+  font-size: 15px;
+}
