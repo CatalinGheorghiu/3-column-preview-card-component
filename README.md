@@ -1,7 +1,7 @@
-# Frontend Mentor - Stats preview card component solution
+# Frontend Mentor - 3-column preview card component solution
 
 This is a solution to
-the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
+the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
 . Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Overview
@@ -18,8 +18,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://frontend-mentor-stats-preview.netlify.app](https://frontend-mentor-stats-preview.netlify.app)
+- Solution
+  URL: [Add solution URL here](https://www.frontendmentor.io/solutions/3-column-preview-card-component-with-vuejs-and-scss-yz8ZxyNMs)
+- Live Site
+  URL: [https://frontend-mentor-3-column-card.netlify.app/](https://frontend-mentor-3-column-card.netlify.app/)
 
 ## My process
 
