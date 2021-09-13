@@ -16,6 +16,11 @@ body {
 #app {
   padding: 100px 24px;
 
+  @media (min-width: $breakpoint-md) and (max-width: $breakpoint-max-lg) {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
   @media (min-width: $breakpoint-lg) {
     display: flex;
     max-width: 960px;
@@ -24,8 +29,5 @@ body {
     height: 100%;
   }
 
-  @media (max-width: $breakpoint-max-xlg) {
-    max-width: 400px;
-    margin: 0 auto;
-  }
+
 }
