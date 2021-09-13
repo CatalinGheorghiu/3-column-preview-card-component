@@ -1,8 +1,28 @@
-// Colors
-$color-light-purple: #e3e3;
+/*
+*** Colors ***
+ */
+
+// Primary
+
+$bright-orange: hsl(31, 77%, 52%);
+$dark-cyan: hsl(184, 100%, 22%);
+$very-dark-cyan: hsl(179, 100%, 13%);
+
+// Neutral
+$transparent-white: hsla(0, 0%, 100%, 0.75); // paragraphs
+$very-light-gray: hsl(0, 0%, 95%); // background, headings, buttons
+
 
 $breakpoint-md: 768px; // tablets
 $breakpoint-max-lg: 959px; // desktop
 $breakpoint-lg: 960px; // desktop
 $breakpoint-max-xlg: 1439px; // HD
 $breakpoint-xlg: 1440px; // HD
+
+
+/*
+*** FONTS ***
+*/
+
+$font-primary: 'Lexend Deca';
+$font-secondary: 'Big Shoulders Display';

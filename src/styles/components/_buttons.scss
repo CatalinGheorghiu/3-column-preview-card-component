@@ -1,0 +1,23 @@
+.btn {
+  width: 150px;
+  padding: 16px;
+  border: none;
+  border-radius: 24px;
+  font-weight: bold;
+
+  &--primary {
+    background-color: $very-light-gray;
+    color: inherit;
+
+    &:hover {
+      background-color: inherit;
+      color: #ffffff;
+      border: 1px solid #ffffff;
+      padding: 15px;
+    }
+  }
+
+  a {
+    color: inherit;
+  }
+}
